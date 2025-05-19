@@ -9,7 +9,7 @@
 ```
 @misc{zhang2025generativemodelscomputationalpathology,
       title={Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges}, 
-      author={Yuan Zhang and Xinfeng Zhang and Xiaoming Qi Xinyu Wu and Feng Chen and Guanyu Yang and Huazhu Fu},
+      author={Yuan Zhang and Xinfeng Zhang and Xiaoming Qi and Xinyu Wu and Feng Chen and Guanyu Yang and Huazhu Fu},
       year={2025},
       eprint={2505.10993},
       archivePrefix={arXiv},
