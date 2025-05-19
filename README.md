@@ -223,10 +223,9 @@ This project aims to serve as a foundational reference and open knowledge base f
 
 
 ## ❤️ Community Support
-🍃 **Generative Pathology** is a rapidly evolving and highly promising research area. We anticipate that more researchers and practitioners will join in advancing this exciting frontier.
+🌱 **Generative Pathology** is a rapidly evolving and highly promising research area. We anticipate that more researchers and practitioners will join in advancing this exciting frontier.
 
-🌱  We welcome pull requests from the community! While individual efforts are valuable, collaborative contributions are essential to building a sustainable and comprehensive resource.  
-If you'd like to add papers, improve taxonomy, or fix typos, feel free to fork the repo and [submit a pull request](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology/pulls).  
+💎  We welcome pull requests from the community! While individual efforts are valuable, collaborative contributions are essential to building a sustainable and comprehensive resource. If you'd like to add papers, improve taxonomy, or fix typos, feel free to fork the repo and [submit a pull request](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology/pulls).  
 
 🌼 Please consider starring, forking, or contributing to the repository on GitHub: [👉 GitHub Link Here](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology)
 
