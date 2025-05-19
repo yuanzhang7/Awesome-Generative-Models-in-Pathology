@@ -229,5 +229,4 @@ This project aims to serve as a foundational reference and open knowledge base f
 
 🌼 Please consider starring, forking, or contributing to the repository on GitHub: [👉 GitHub Link Here](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology)
 
-
 🙌 Let’s build a stronger community for **Generative Computational Pathology** — together!
