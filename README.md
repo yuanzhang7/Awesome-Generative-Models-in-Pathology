@@ -1,5 +1,5 @@
 # Awesome-Generative-Models-in-Pathology
-**[Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](https://arxiv.org/pdf/2505.10993)**[ [arXiv]](https://arxiv.org/abs/2505.10993) 
+**[Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](https://arxiv.org/pdf/2505.10993)**[ [arXiv]](https://arxiv.org/abs/2505.10993) 
 
 > *Yuan Zhang<sup>1</sup>, Xinfeng Zhang<sup>2</sup>, Xiaoming Qi<sup>3</sup>, Xinyu Wu<sup>1</sup>, Feng Chen<sup>4</sup>, Guangyu Yang<sup>1</sup>, Huazhu Fu<sup>5</sup>*
 
@@ -8,7 +8,7 @@
 ### 16/05/2025: Our survey has been accessible on Arxiv([arxiv](https://arxiv.org/abs/2505.10993).)
 ```
 @misc{zhang2025generativemodelscomputationalpathology,
-      title={Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges}, 
+      title={Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges}, 
       author={Yuan Zhang and Xinfeng Zhang and Xiaoming Qi and Xinyu Wu and Feng Chen and Guanyu Yang and Huazhu Fu},
       year={2025},
       eprint={2505.10993},
