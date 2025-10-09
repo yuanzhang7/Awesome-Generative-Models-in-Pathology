@@ -29,7 +29,7 @@ To ensure the quality and consistency of this list, please keep the following pr
 
     **If the paper has code:**
     ```markdown
-    - 💻 [Paper Title], <ins>Conference/Journal, Year</ins> [[Paper](URL_to_paper)] [[Code](URL_to_code)]
+    - [Paper Title], <ins>Conference/Journal, Year</ins> [[Paper](URL_to_paper)] [[Code](URL_to_code)]
     ```
     **If the paper does not have code:**
     ```markdown

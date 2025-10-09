@@ -17,7 +17,7 @@
     </a>
   </span>
 </p>
-📢 Scan the QR code in wechat_qrcode.png to join our Generative Pathology WeChat group!
+📢 Scan the QR code to join our Generative Pathology WeChat group!
 
 
 ## ⚡ News: 
