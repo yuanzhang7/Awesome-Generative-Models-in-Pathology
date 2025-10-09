@@ -22,7 +22,7 @@
 
 ## ⚡ News: 
 
-- **[29/09/2025] 🎉 Our survey has been accepted by [IEEE Reviews in Biomedical Engineering (RBME)](https://arxiv.org/abs/2505.10993)! Cheers！.**
+- **[29/09/2025] 🎉 Our survey has been accepted by [IEEE Reviews in Biomedical Engineering (RBME)](https://arxiv.org/abs/2505.10993)! Cheers！**
 - **[16/05/2025] 📖 Our survey is available on [arXiv](https://arxiv.org/abs/2505.10993).**
 
 ## 😊 Citation
