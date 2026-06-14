@@ -178,6 +178,7 @@ This repository provides a comprehensive and continuously updated list of over 1
 - Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model, <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2407.11664)]
 - PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting, <ins>MICCAI, 2025</ins> [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-05325-1_39)] [[Code](https://github.com/HongLiuuuuu/PathoPainter)]
 - A robust image segmentation and synthesis pipeline for histopathology, <ins>MIA, 2025</ins> [[Paper](https://www.sciencedirect.com/science/article/pii/S136184152400269X)] [[Code](https://github.com/DeepMIALab/PathoSeg)]
+- Pathdiff: Histopathology image synthesis with Text and Mask conditions that are not paired, <ins>ICCV, 2025</ins>[[Paper](https://arxiv.org/abs/2506.23440)][[Code](https://github.com/bhosalems)]
 
 #### Artifact Restoration
 - A review of artifacts in histopathology, <ins>J Oral Maxillofac Pathol., 2018</ins> [[Paper](https://journals.lww.com/jpat/fulltext/2018/22020/a_review_of_artifacts_in_histopathology.26.aspx)]
@@ -208,6 +209,8 @@ This repository provides a comprehensive and continuously updated list of over 1
 #### Text-to-Image Generation
 - PathLDM: Text conditioned Latent Diffusion Model for Histopathology, <ins>WACV, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Yellapragada_PathLDM_Text_Conditioned_Latent_Diffusion_Model_for_Histopathology_WACV_2024_paper.html)] [[Code](https://github.com/cvlab-stonybrook/PathLDM)]
 - VIMs: Virtual Immunohistochemistry Multiplex Staining via Text-to-Stain Diffusion Trained on Uniplex Stains, <ins>MLMI, 2024</ins> [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73284-3_15)]
+- Pathdiff: Histopathology image synthesis with Text and Mask conditions that are not paired, <ins>ICCV, 2025</ins>[[Paper](https://arxiv.org/abs/2506.23440)][[Code](https://github.com/bhosalems)]
+
 
 #### Stain Synthesis (Normalization & Transfer)
 - Neural Stain-Style Transfer Learning using GAN for Histopathological Images, <ins>arXiv, 2017</ins> [[Paper](https://arxiv.org/abs/1710.08543)] [[Code](https://github.com/hw-liang/DSCSI-GAN)]
