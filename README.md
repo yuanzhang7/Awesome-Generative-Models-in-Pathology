@@ -303,6 +303,7 @@ This repository provides a comprehensive and continuously updated list of over 1
 
 - DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images, <ins>medRxiv, 2025</ins> [[Paper](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)] [[Code](https://github.com/ratschlab/DeepSpot)]
 - DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision, <ins>NeurIPS, 2025</ins> [[Paper](https://openreview.net/forum?id=ofCkwXQKaz)] [[Code](https://github.com/ratschlab/DeepSpot2Cell)]
+- DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology, <ins>medRxiv, 2026</ins> [[Paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)] [[Code](https://github.com/ratschlab/DeepSpotM)]
 
 #### Reverse Morphology Generation
 - Pix2Path: Integrating Spatial Transcriptomics and Digital Pathology with Deep Learning to Score Pathological Risk and Link Gene Expression to Disease Mechanisms, <ins>bioRxiv, 2024</ins> [[Paper](https://www.biorxiv.org/content/10.1101/2024.08.18.608468v1)] [[Code](https://github.com/frankXiaonan/Pix2Path)]
