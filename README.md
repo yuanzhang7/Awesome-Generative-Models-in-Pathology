@@ -301,6 +301,8 @@ This repository provides a comprehensive and continuously updated list of over 1
 - Histopathology-based protein multiplex generation using deep learning, <ins>Nature Machine Intelligence, 2025</ins> [[Paper](https://www.nature.com/articles/s42256-025-01074-y)] [[Code](https://github.com/ratschlab/HistoPlexer)]
 - Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder, <ins>CVPR, 2025</ins> [[Paper](https://arxiv.org/abs/2503.09496)] [[Code](https://github.com/JJ-ZHOU-Code/RobustMultiModel)]
 
+- DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology, <ins>medRxiv, 2026</ins> [[Paper](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)] [[Code](https://github.com/ratschlab/DeepSpotM)]
+
 #### Reverse Morphology Generation
 - Pix2Path: Integrating Spatial Transcriptomics and Digital Pathology with Deep Learning to Score Pathological Risk and Link Gene Expression to Disease Mechanisms, <ins>bioRxiv, 2024</ins> [[Paper](https://www.biorxiv.org/content/10.1101/2024.08.18.608468v1)] [[Code](https://github.com/frankXiaonan/Pix2Path)]
 - Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models, <ins>Nature Biomedical Engineering, 2024</ins> [[Paper](https://www.nature.com/articles/s41551-024-01193-8)]
