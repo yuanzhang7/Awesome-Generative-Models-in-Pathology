@@ -302,6 +302,7 @@ This repository provides a comprehensive and continuously updated list of over 1
 - Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder, <ins>CVPR, 2025</ins> [[Paper](https://arxiv.org/abs/2503.09496)] [[Code](https://github.com/JJ-ZHOU-Code/RobustMultiModel)]
 
 - DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images, <ins>medRxiv, 2025</ins> [[Paper](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3)] [[Code](https://github.com/ratschlab/DeepSpot)]
+- DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision, <ins>NeurIPS, 2025</ins> [[Paper](https://openreview.net/forum?id=ofCkwXQKaz)] [[Code](https://github.com/ratschlab/DeepSpot2Cell)]
 
 #### Reverse Morphology Generation
 - Pix2Path: Integrating Spatial Transcriptomics and Digital Pathology with Deep Learning to Score Pathological Risk and Link Gene Expression to Disease Mechanisms, <ins>bioRxiv, 2024</ins> [[Paper](https://www.biorxiv.org/content/10.1101/2024.08.18.608468v1)] [[Code](https://github.com/frankXiaonan/Pix2Path)]
